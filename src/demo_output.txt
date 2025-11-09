@@ -1,0 +1,4 @@
+myshell> Hello from myshell
+myshell> uvicorn_logging.config
+myshell> Linux 6cac59b690d7 4.4.0 #1 SMP Sun Jan 10 15:06:54 PST 2016 x86_64 GNU/Linux
+myshell> 
